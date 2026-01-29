@@ -1,14 +1,17 @@
 <div align="center">
-  <p align="center">
-  <samp>
-    <b>Hi 👋, I'm Naeem Muntasir Asif</b>
-  </samp>
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=A+passionate+developer+from+Bangladesh+specializing+in+building+modern+web+applications; I+focus+on+writing+clean,+maintainable+code+and+solving+complex+problems." alt="Typing SVG" />
-</h1>
+ <h1>Hi 👋, I'm <span style="color: #00D1FF;">Naeem Muntasir Asif</span></h1>
+
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Web+Developer;Crafting+Clean+%26+Scalable+Code;Solving+Complex+Problems+with+Modern+Tech;Passionate+about+Building+the+Future" alt="Typing SVG" />
+</h3>
 
 <br />
 
+<p align="center">
+  <kbd>
+    <b>Specializing in MERN Stack & Next.js from Bangladesh</b>
+  </kbd>
+</p>
 
 </div>
 
