@@ -4,27 +4,17 @@
 <h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Web+Developer;Crafting+Clean+%26+Scalable+Code;Solving+Complex+Problems+with+Modern+Tech;Passionate+about+Building+the+Future" alt="Typing SVG" />
 </h3>
-
-<br />
-
-<p align="center">
-  <kbd>
-    <b>Specializing in MERN Stack & Next.js from Bangladesh</b>
-  </kbd>
-</p>
-
 </div>
 
-### [Your Role: e.g., Full-Stack Web Developer]
-
-
----
-
-### 🚀 Professional Summary
-- 🔭 I’m currently working on **[Project Name/Current Focus]**
-- 🌱 I’m currently learning **Next.js 14 and System Design**
-- 💬 Ask me about **React, Node.js, and MongoDB**
-- 📫 How to reach me: **yourname@email.com**
+-👋 Hi, I’m @muntasir010
+- 🔭I’m currently working on **scalable SaaS platforms and complex E-commerce backends.**
+- 🌱 I’m currently learning **Docker, AWS, and Microservices Architecture** to scale my apps.
+- 👯 I’m looking to collaborate on **Open Source projects and innovative FinTech solutions.**
+- 🤔 I’m looking for help with **Advanced DevOps workflows and Cloud Deployment.**
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL, Prisma, Mongoose).**
+- 📫 How to reach me: **[naeemtasir03@gmail.com]**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I spend more time naming variables than writing the actual logic! ☕**
 
 ---
 
@@ -53,12 +43,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
