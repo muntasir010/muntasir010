@@ -1,9 +1,18 @@
 <div align="center">
- ## Hi 👋, I'm Naeem Muntasir Asif
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+[আপনার_নাম]+👋;Full-Stack+Web+Developer;Building+Future+Solutions" alt="Typing SVG" />
+</h1>
+
+<br />
+
+<p align="center">
+  <samp>
+    <b>A passionate developer from Bangladesh 🇧🇩 specializing in building modern web applications. I focus on writing clean, maintainable code and solving complex problems.</b>
+  </samp>
 </div>
 
 ### [Your Role: e.g., Full-Stack Web Developer]
-A passionate developer from Bangladesh 🇧🇩 specializing in building modern web applications. I focus on writing clean, maintainable code and solving complex problems.
+
 
 ---
 
