@@ -59,27 +59,3 @@
 </p>
 
 ---
-
-## 📊 GITHUB STATISTICS & ANALYSIS:
-<img
-  src="https://naeem-github-status.vercel.app/api/top-langs/?username=muntasir010&layout=compact&hide_border=true"
-  alt="Top Languages."
-/>
-
-<img
-  src="https://naeem-github-status.vercel.app/api?username=muntasir010&show_icons=true&hide_border=true"
-  alt="GitHub Stats."
-/>
-
-## GitHub Overview
-
-<p align="left">
-  <img
-    src="https://naeem-github-status.vercel.app/api?username=muntasir010&show_icons=true&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://naeem-github-status.vercel.app/api/top-langs/?username=muntasir010&layout=compact&hide_border=true"
-    height="160"
-  />
-</p>
