@@ -68,12 +68,11 @@
 
 ### GitHub Statistics:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasir010&layout=compact&theme=flat&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=muntasir010&show_icons=true&theme=flat&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasir010&layout=compact&theme=flat&hide_border=true" width="45%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muntasir010&show_icons=true&theme=flat&hide_border=true" width="49%" alt="GitHub Stats" />
 </p>
 
 ### Repository Stats & Streak:
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasir010&theme=flat&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasir010&theme=flat&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
----
