@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with **Advanced DevOps workflows and Cloud Deployment.**
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL, Prisma, Mongoose).**
 - 📫 Feel free to reach out via **[Email](mailto:naeemtasir03@gmail.com)**
-- 📄 View my professional journey on **[Resume]([YOUR_RESUME_URL](https://docs.google.com/document/d/1MTJGyK4wElDB-_25J9m1dGklqTVEscYoSGFOi-lKcIk/edit?usp=sharing))**
+- 📄 View my professional journey on **[Resume](https://docs.google.com/document/d/1MTJGyK4wElDB-_25J9m1dGklqTVEscYoSGFOi-lKcIk/edit?usp=sharing)**
 - 🔗 Let's connect on **[LinkedIn](https://www.linkedin.com/in/naeem-muntasir-asif/)**
 - 🌐 Explore my work on **[Portfolio](https://devnaeem.vercel.app/)**
 - 😄 Pronouns: **He/Him**
@@ -27,7 +27,7 @@
 
 ### 🔗 Languages:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,python" title="HTML5, CSS3, JavaScript, TypeScript, GraphQL, Python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" title="HTML5, CSS3, JavaScript, TypeScript" />
 </p>
 
 ### CSS Frameworks & Libraries:
@@ -42,7 +42,7 @@
 
 ### Database & Model:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" title="MongoDB, MySQL, PostgreSQL, Prisma, Supabase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" title="MongoDB, MySQL, PostgreSQL, Prisma" />
 </p>
 
 ### Deployment Platform:
@@ -52,12 +52,12 @@
 
 ### Design & Graphics:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps" title="Figma, Adobe Illustrator, Adobe Photoshop" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
 </p>
 
 ### Tools & Technologies:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" title="Windows, Ubuntu, Notion, Git, GitHub, VS Code, Postman, Docker" />
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman" title="Windows, Ubuntu, Notion, Git, GitHub, VS Code, Postman" />
 </p>
 
 ---
