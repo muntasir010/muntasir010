@@ -64,18 +64,18 @@
 
 ### GitHub Contributions:
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=github-light&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[https://github.com/muntasir010/]&theme=github-light&area=true&hide_border=true" width="100%" />
 </p>
 
 ### GitHub Statistics:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=flat&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=flat&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[https://github.com/muntasir010/]&layout=compact&theme=flat&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[https://github.com/muntasir010/]&show_icons=true&theme=flat&hide_border=true" width="49%" />
 </p>
 
 ### Repository Stats & Streak:
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=flat&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[https://github.com/muntasir010/]&theme=flat&hide_border=true" width="48%" />
 </p>
 
 ---
