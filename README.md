@@ -61,58 +61,25 @@
 ---
 
 ## 📊 GITHUB STATISTICS & ANALYSIS:
-### GitHub Contributions:
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muntasir010&theme=github-light&area=true&hide_border=true" width="100%" />
-</p>
+<img
+  src="https://naeem-github-status.vercel.app/api/top-langs/?username=muntasir010&layout=compact&hide_border=true"
+  alt="Top Languages."
+/>
 
-### GitHub Statistics
+<img
+  src="https://naeem-github-status.vercel.app/api?username=muntasir010&show_icons=true&hide_border=true"
+  alt="GitHub Stats."
+/>
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=muntasir010&show_icons=true&theme=default&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasir010&layout=compact&hide_border=true"
-    height="170"
-  />
-</p>
+## GitHub Overview
 
 <p align="left">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=muntasir010&hide_border=true"
-    height="170"
-  />
-</p>
-
-
-hi there are
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=muntasir010&show_icons=true&hide_border=true"
-    height="170"
+    src="https://naeem-github-status.vercel.app/api?username=muntasir010&show_icons=true&hide_border=true"
+    height="160"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasir010&layout=compact&hide_border=true"
-    height="170"
+    src="https://naeem-github-status.vercel.app/api/top-langs/?username=muntasir010&layout=compact&hide_border=true"
+    height="160"
   />
-</p>
-
-
-
-
-
-
-
-### GitHub Statistics:
-<p align="left">
-  <img src="https://naeem-github-status.vercel.app/api/top-langs/?username=muntasir010&layout=compact&theme=flat&hide_border=true" width="45%" alt="Top Languages" />
-  <img src="https://naeem-github-status.vercel.app/api?username=muntasir010&show_icons=true&theme=flat&hide_border=true" width="49%" alt="GitHub Stats" />
-</p>
-
-### Repository Stats & Streak:
-<p align="left">
-  <img src="https://naeem-github-status.vercel.app/?user=muntasir010&theme=flat&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
