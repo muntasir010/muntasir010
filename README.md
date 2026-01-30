@@ -6,7 +6,7 @@
 </h3>
 </div>
 
--👋 Hi, I’m @muntasir010
+- 👋 Hi, I’m @muntasir010
 - 🔭I’m currently working on **scalable SaaS platforms and complex E-commerce backends.**
 - 🌱 I’m currently learning **Docker, AWS, and Microservices Architecture** to scale my apps.
 - 👯 I’m looking to collaborate on **Open Source projects and innovative FinTech solutions.**
@@ -21,13 +21,44 @@
 
 ---
 
-### 🛠 Tech Stack
-| Category | Tools |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.dot.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+---
+
+## 🛠️ TECHNOLOGY STACK
+
+### 🔗 Languages:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,python" title="HTML5, CSS3, JavaScript, TypeScript, GraphQL, Python" />
+</p>
+
+### CSS Frameworks & Libraries:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" title="Tailwind CSS, Material UI, Bootstrap" />
+</p>
+
+### JavaScript Frameworks & Libraries:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" title="React, Next.js, Redux, Node.js, Express" />
+</p>
+
+### Database & Model:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" title="MongoDB, MySQL, PostgreSQL, Prisma, Supabase" />
+</p>
+
+### Deployment Platform:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" title="Vercel, Netlify, Firebase" />
+</p>
+
+### Design & Graphics:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" title="Figma, Adobe Illustrator, Adobe Photoshop" />
+</p>
+
+### Tools & Technologies:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" title="Windows, Ubuntu, Notion, Git, GitHub, VS Code, Postman, Docker" />
+</p>
 
 ---
 
