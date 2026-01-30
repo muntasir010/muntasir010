@@ -21,8 +21,6 @@
 
 ---
 
----
-
 ## 🛠️ TECHNOLOGY STACK
 
 ### 🔗 Languages:
@@ -50,7 +48,7 @@
   <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" title="Vercel, Netlify, Firebase" />
 </p>
 
-### Design & Graphics:
+### Design:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
 </p>
@@ -62,20 +60,22 @@
 
 ---
 
-### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+## 📊 GITHUB STATISTICS & ANALYSIS:
+
+### GitHub Contributions:
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=github-light&area=true&hide_border=true" width="100%" />
+</p>
+
+### GitHub Statistics:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=flat&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=flat&hide_border=true" width="49%" />
+</p>
+
+### Repository Stats & Streak:
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=flat&hide_border=true" width="48%" />
+</p>
 
 ---
-
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=react&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-<!--
-**muntasir010/muntasir010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
--->
