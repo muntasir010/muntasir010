@@ -6,7 +6,7 @@
 </h3>
 </div>
 
-- 👋 Hi, I’m @muntasir010
+- 👋 Hi, I’m **@muntasir010**
 - 🔭I’m currently working on **scalable SaaS platforms and complex E-commerce backends.**
 - 🌱 I’m currently learning **Docker, AWS, and Microservices Architecture** to scale my apps.
 - 👯 I’m looking to collaborate on **Open Source projects and innovative FinTech solutions.**
@@ -23,7 +23,7 @@
 
 ## 🛠️ TECHNOLOGY STACK
 
-### 🔗 Languages:
+### Languages:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" title="HTML5, CSS3, JavaScript, TypeScript" />
 </p>
