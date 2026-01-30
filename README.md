@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **Open Source projects and innovative FinTech solutions.**
 - 🤔 I’m looking for help with **Advanced DevOps workflows and Cloud Deployment.**
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL, Prisma, Mongoose).**
-- 📫 How to reach me: **[naeemtasir03@gmail.com](mailto:naeemtasir03@gmail.com)**
+- 📫 Feel free to reach out via **[Email](mailto:naeemtasir03@gmail.com)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I spend more time naming variables than writing the actual logic! ☕**
 
