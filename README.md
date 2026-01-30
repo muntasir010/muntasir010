@@ -89,6 +89,23 @@
 
 hi there are
 
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=muntasir010&show_icons=true&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasir010&layout=compact&hide_border=true"
+    height="170"
+  />
+</p>
+
+
+
+
+
+
+
 ### GitHub Statistics:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasir010&layout=compact&theme=flat&hide_border=true" width="45%" alt="Top Languages" />
