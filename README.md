@@ -13,6 +13,9 @@
 - 🤔 I’m looking for help with **Advanced DevOps workflows and Cloud Deployment.**
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL, Prisma, Mongoose).**
 - 📫 Feel free to reach out via **[Email](mailto:naeemtasir03@gmail.com)**
+- 📄 View my professional journey on **[Resume]([YOUR_RESUME_URL](https://docs.google.com/document/d/1MTJGyK4wElDB-_25J9m1dGklqTVEscYoSGFOi-lKcIk/edit?usp=sharing))**
+- 🔗 Let's connect on **[LinkedIn](https://www.linkedin.com/in/naeem-muntasir-asif/)**
+- 🌐 Explore my work on **[Portfolio](https://devnaeem.vercel.app/)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I spend more time naming variables than writing the actual logic! ☕**
 
