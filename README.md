@@ -1,8 +1,7 @@
-<div align="center">
-  <img src="NaeemGithubBanner.jpg" alt="Naeem Muntasir Asif Banner" width="100%" />
-</div>
 
----
+
+---<img width="100%" height="100%" alt="NaeemGithubBanner" src="https://github.com/user-attachments/assets/92e93f9d-a7c0-4cdc-a93c-31058c6efc86" />
+
 
 <div align="center">
  <h1>Hi 👋, I'm <span style="color: #00D1FF;">Naeem Muntasir Asif</span></h1>
