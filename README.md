@@ -64,3 +64,21 @@
 </p>
 
 ---
+
+## GITHUB STATISTICS & ANALYSIS:
+
+### 📊 GitHub Contributions
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muntasir010&theme=flat&hide_border=true&area=true" width="100%" alt="muntasir010's Activity Graph" />
+</p>
+
+### 📈 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasir010&layout=compact&theme=flat&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muntasir010&show_icons=true&theme=flat&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+</p>
+
+### 🔥 Current Streak
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasir010&theme=flat&hide_border=true" alt="muntasir010's Streak" />
+</p>
