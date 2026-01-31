@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=200&section=header&text=Naeem%20Muntasir%20Asif&fontSize=50&animation=fadeIn" width="100%" />
+</div>
+
+---
+
+<div align="center">
  <h1>Hi 👋, I'm <span style="color: #00D1FF;">Naeem Muntasir Asif</span></h1>
 
 <h3>
