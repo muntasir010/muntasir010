@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=200&section=header&text=Naeem%20Muntasir%20Asif&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="NaeemGithubBanner.jpg" alt="Naeem Muntasir Asif Banner" width="100%" />
 </div>
 
 ---
